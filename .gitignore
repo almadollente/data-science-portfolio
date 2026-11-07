@@ -1,0 +1,10 @@
+# Ignore Kaggle API credentials
+kaggle.json
+.kaggle/
+
+# Ignore large datasets and data artifacts
+*.parquet
+*.zip
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
